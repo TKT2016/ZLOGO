@@ -100,6 +100,9 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="例子\重复画射线.zlogo">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="例子\重复绘图.zlogo">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
