@@ -6,3 +6,4 @@ ZLOGO是在基于Z语言实现的LOGO语言,但是它用的是中文编程，比
 
 ![](https://github.com/TKT2016/ZLOGO/blob/master/ZLogoIDE/%E4%BE%8B%E5%AD%90/hcf.jpg)
 
+# Z语言QQ群:362762284
